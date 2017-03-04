@@ -3,7 +3,8 @@ Test repository to document and show my learning experience with the github ecos
 ## Github Start guides:
 - **Github** - https://guides.github.com/activities/hello-world/#intro
 - **Github** - https://services.github.com/
-- **OSWeekends** - https://github.com/OSWeekends/microtalleres/blob/master/2016/github.md## Writing notes format and style
+- **OSWeekends** - https://github.com/OSWeekends/microtalleres/blob/master/2016/github.md
+
 ## Writing notes format and style
-- **Basic writing and formatting syntax**  - https://help.github.com/articles/basic-writing-and-formatting-syntax/- **Marcdown
+- **Basic writing and formatting syntax** - https://help.github.com/articles/basic-writing-and-formatting-syntax/
 - **Marcdowntutorial** - http://www.markdowntutorial.com/
