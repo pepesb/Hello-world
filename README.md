@@ -11,8 +11,7 @@ Test repository to document and show my learning experience with the github ecos
 
 ## Using emoji
 - **Github** - https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji
-
-- **emoji-cheat-sheet.com** - http://www.webpagefx.com/tools/emoji-cheat-sheet/
+- **Emoji-cheat-sheet.com** - http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 ##Glossary:
 - Repositorie - Repositorio o proyecto completo.
