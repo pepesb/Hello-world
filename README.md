@@ -14,8 +14,4 @@ Test repository to document and show my learning experience with the github ecos
 - **Emoji-cheat-sheet.com** - http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 ##Glossary:
-- Repositorie - Repositorio o proyecto completo.
-- Master - Main Brunch froma each reposictory / project. 
-- Branch - a bifurcaction inside a project with independent development
-- Commit - changes in the code (inputs) documented and added for later supervision and evaluation.
-- Open a **Pull Request** - proposal to view, valorate and accept o not the commits that were wroten inside a branch.
+- **Github Glossary** - https://help.github.com/articles/github-glossary/#
